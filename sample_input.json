@@ -1,0 +1,74 @@
+[ 
+{
+  "description": "Centry 21 Bay's Edge Realty Inc.",
+  "percent_transfer" : "50",
+  "recorded_date" : "2017/06/07",
+  "doc_date" : "2017/05/17",
+  "borough" : "1",
+  "doc_type" : "AGMT",
+  "document_id" : "2017060501007005",
+  "modified_date" : "2017/06/07",
+  "record_type" : "A",
+  "transaction_amount" : "425300",
+  "crfn" : "2017000211598",
+  "good_through_date" : "2017/06/30"
+}
+, {
+  "percent_transfer" : "33.3",
+  "recorded_date" : "2017/06/07",
+  "doc_date" : "2017/06/05",
+  "borough" : "1",
+  "doc_type" : "AGMT",
+  "document_id" : "2017060600080005",
+  "modified_date" : "2017/06/07",
+  "record_type" : "A",
+  "transaction_amount" : "1000000",
+  "crfn" : "2017000211588",
+  "good_through_date" : "2017/06/30",
+  "reel_page" : "1"
+}
+, {
+  "percent_transfer" : "100",
+  "recorded_date" : "2017/06/07",
+  "doc_date" : "2017/03/16",
+  "borough" : "1",
+  "reel_number" : "8",
+  "doc_type" : "AGMT",
+  "document_id" : "2017052600213001",
+  "modified_date" : "2017/06/07",
+  "record_type" : "A",
+  "transaction_amount" : "358923",
+  "crfn" : "2017000211566",
+  "good_through_date" : "2017/06/30",
+  "reel_page" : "1",
+  "reel_year" : "2017"
+}
+, {
+  "percent_transfer" : "33.3",
+  "recorded_date" : "2017/06/07",
+  "doc_date" : "2017/05/23",
+  "borough" : "1",
+  "reel_number" : "3",
+  "doc_type" : "AGMT",
+  "document_id" : "2017060600837003",
+  "modified_date" : "2017/06/07",
+  "record_type" : "A",
+  "transaction_amount" : "244989",
+  "crfn" : "2017000211563",
+  "good_through_date" : "2017/06/30",
+  "reel_year" : "2017"
+}
+, {
+  "percent_transfer" : "100",
+  "recorded_date" : "2017/06/07",
+  "doc_date" : "2017/06/02",
+  "borough" : "1",
+  "doc_type" : "AGMT",
+  "document_id" : "2017060600687001",
+  "modified_date" : "2017/06/07",
+  "record_type" : "A",
+  "transaction_amount" : "4903914.41",
+  "crfn" : "2017000211547",
+  "good_through_date" : "2017/06/30"
+}
+]

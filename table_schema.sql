@@ -1,0 +1,17 @@
+CREATE TABLE `master` (
+  `borough` int(11) DEFAULT NULL,
+  `crfn` varchar(255) DEFAULT NULL,
+  `transaction_amount` double DEFAULT NULL,
+  `doc_date` date DEFAULT NULL,
+  `doc_type` varchar(255) DEFAULT NULL,
+  `document_id` varchar(255) DEFAULT NULL,
+  `good_through_date` date DEFAULT NULL,
+  `modified_date` date DEFAULT NULL,
+  `percent_transfer` double DEFAULT NULL,
+  `record_type` varchar(255) DEFAULT NULL,
+  `recorded_date` date DEFAULT NULL,
+  `reel_number` int(11) DEFAULT NULL,
+  `reel_page` int(11) DEFAULT NULL,
+  `reel_year` int(11) DEFAULT NULL,
+  `description` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
